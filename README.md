@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?
 
 <!--
 **siwony/siwony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
