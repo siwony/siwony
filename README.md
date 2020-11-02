@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/siwony">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siwony&layout=compact"/>
+</a>
 ![siwony's github stats](https://github-readme-stats.vercel.app/api?username=siwony&show_icons=true)
