@@ -8,8 +8,8 @@
 > - 😸고양이를 좋아합니다! ><  
 
  
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=siwony&show_icons=true&theme=">
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siwony&layout=compact"/>
+<img height="145px" src="https://github-readme-stats.vercel.app/api?username=siwony&show_icons=true&theme=">
+<img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siwony&layout=compact"/>
 
 ### 📚stack  
 - **language** :   
