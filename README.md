@@ -7,9 +7,10 @@
 > - 👍매일매일 생각하고 성장하는 사람이 되고싶고, 되기위해 노력하는 주니어 개발자 입니다!
 > - 😸고양이를 좋아합니다! ><  
 
- 
-<img height="140px" src="https://github-readme-stats.vercel.app/api?username=siwony&show_icons=true&theme=">
-<img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siwony&layout=compact"/>
+<p float="left">
+    <img height="145px" src="https://github-readme-stats.vercel.app/api?username=siwony&show_icons=true&theme=">
+    <img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siwony&layout=compact"/>
+</p>
 
 ### 📚stack  
 - **language** :   
