@@ -24,9 +24,5 @@
    <img height="32px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg">
    <img height="32px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg">
 </p>
-<p float="leaf">
-   <img height="32px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg">
-   <img height="32px" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg">
-</p>
 
 
