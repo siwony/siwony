@@ -13,23 +13,20 @@
 </p>
 
 ### 📚stack  
-- **language** :   
-    <img height="32px" src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg">
-    <img height="32px" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg">
-    <img height="32px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg">
-    <img height="32px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png">
-    <img height="32px" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg">
-    <img height="32px" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_php_icon_130266.png">
-- **Back-end** :  
-    <img height="32px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-    <img height="32px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg">
-- **DataBase** :  
-RDB  
-  <img height="32px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg">  
-
-- **tool** :  
-    <img height="32px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg">
-    <img height="32px" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg">
-
+<p float="left">
+   <img height="32px" src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg">
+   <img height="32px" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg">
+   <img height="32px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg">
+   <img height="32px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png">
+   <img height="32px" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg">
+   <img height="32px" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_php_icon_130266.png">
+   <img height="32px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+   <img height="32px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg">
+   <img height="32px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg">
+</p>
+<p float="leaf">
+   <img height="32px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg">
+   <img height="32px" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg">
+</p>
 
 
