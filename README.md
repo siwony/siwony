@@ -3,7 +3,7 @@
 ### siwony_
 > - 🎓Gwang-ju Software Meister high school(GSM) / South Korea
 > - ⭐️GSM webechnologies 전공심화 동아리 부원!
-> - 😘저는 백앤드 개발을 좋아해요 :)
+> - 😘저는 Be 개발을 좋아해요 :)
 > - 👍매일매일 생각하고 성장하는 사람이 되고싶고, 되기위해 노력하는 주니어 개발자 입니다!
 > - 😸고양이를 좋아합니다! ><  
 
@@ -24,5 +24,3 @@
    <img height="32px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg">
    <img height="32px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg">
 </p>
-
-
