@@ -2,7 +2,7 @@
 ### siwony_
 > - 🎓 Gwang-ju Software Meister high school(GSM) / South Korea
 > - ⭐️ GSM webechnologies 전공심화 동아리 부원!
-> - 😘 저는 Be 개발을 좋아해요 :)
+> - 😘 저는 Server Side 개발을 좋아해요 :)
 > - 👍 매일매일 생각하고 성장하는 사람이 되고싶고, 되기위해 노력하는 주니어 개발자 입니다!
 > - 😸 고양이를 좋아합니다! ><  
 
@@ -12,14 +12,7 @@
 </p>
 
 ### 📚stack  
-<p float="left">
-   <img height="32px" src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg">
-   <img height="32px" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg">
-   <img height="32px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg">
-   <img height="32px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png">
-   <img height="32px" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg">
-   <img height="32px" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_php_icon_130266.png">
-   <img height="32px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-   <img height="32px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg">
-   <img height="32px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg">
-</p>
+Language : Java, JavaScript ,Python, PHP, C  
+Framework : SpringBoot, nodeJS(express)  
+DataBase : mysql, MariaDB, H2DB  
+Cloud : AWS(EC2)
