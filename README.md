@@ -15,4 +15,4 @@
 - Language : Java, JavaScript ,Python, PHP, C  
 - Framework : SpringBoot, nodeJS(express)  
 - DataBase : mysql, MariaDB, H2DB  
-- Cloud : AWS(EC2)
+- DevOps : AWS
