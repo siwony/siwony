@@ -1,10 +1,12 @@
 ## Hello I'm Junior Developer [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiwony&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p float=right>
 <a src="https://www.notion.so/Jeong-siwon-18b5a25b50294b968585088420ebf68c">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
 <a src="siwony.recruit@gmail.com">
     <img src="https://img.shields.io/badge/siwony.recruit@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
+</p>
 
 ### siwony_
 > - 🎓 Gwang-ju Software Meister high school(GSM) / South Korea
