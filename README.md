@@ -3,7 +3,7 @@
 <a src="https://www.notion.so/Jeong-siwon-18b5a25b50294b968585088420ebf68c">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
-<a src="siwony.recruit@gmail.com">
+<a src="mailto:siwony.recruit@gmail.com">
     <img src="https://img.shields.io/badge/siwony.recruit@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 </p>
