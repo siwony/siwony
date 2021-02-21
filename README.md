@@ -5,7 +5,7 @@
  - 👍 매일매일 생각하고 성장하는 사람이 되고싶고, 항상 노력하는 주니어 개발자 입니다.
 
 ## 🛠 stack  
- Language : Java, JavaScript ,Python, PHP   
- Framework : SpringBoot, nodeJS(express)  
- DataBase : MySQL, MariaDB, H2DB  
- DevOps : AWS
+ * Language : Java, JavaScript ,Python, PHP   
+ * Framework : SpringBoot, nodeJS(express)  
+ * DataBase : MySQL, MariaDB, H2DB  
+ * DevOps : AWS
