@@ -1,5 +1,6 @@
 ## 🎓 SW Engineer "Jeong siwon"
- * Language : Java, JavaScript ,Python, PHP   
- * Framework : SpringBoot, nodeJS(express)  
- * DataBase : MySQL, MariaDB, H2DB  
+ * Language : Java, JavaScript ,Python
+ * Framework : SpringBoot
+ * DataBase : MySQL, MariaDB
  * DevOps : AWS
+ * ETC : Spring Data JPA(ORM)
