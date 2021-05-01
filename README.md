@@ -1,4 +1,4 @@
-## 🎓 SW Engineer "Jeong siwon"
+## SW Engineer "Jeong siwon"
  * Language : Java
  * Framework : SpringBoot
  * DataBase : MySQL, MariaDB
