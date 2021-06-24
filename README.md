@@ -1,6 +1,6 @@
 ## SW Engineer "Jeong siwon"
- * Language : Java
+ * Language : Java11
  * Framework : SpringBoot
  * DataBase : MySQL, MariaDB
- * DevOps : AWS(EC2, S3)
+ * DevOps : AWS(EC2, S3), Docker, Jenkins
  * ETC : Spring Data JPA(ORM)
